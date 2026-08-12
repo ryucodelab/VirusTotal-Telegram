@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ VTBot
+# 🛡️ VirusTotal Telegram Bot
 
 **An automatic Telegram security bot that scans files and URLs in real-time using VirusTotal.**
 
