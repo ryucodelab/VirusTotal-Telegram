@@ -68,8 +68,8 @@ vtbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ryucodelab/vtbot.git
-cd vtbot
+git clone https://github.com/ryucodelab/VirusTotal-Telegram
+cd VirusTotal-Telegram
 ```
 
 ### 2. Create a virtual environment (recommended)
